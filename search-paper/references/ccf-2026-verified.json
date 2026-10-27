@@ -1,0 +1,18 @@
+{
+  "catalog_version": "CCF-2026-v7",
+  "catalog_title": "中国计算机学会推荐国际学术会议和期刊目录（2026年第七版，正式版）",
+  "published_on": "2026-03-31",
+  "correction_on": "2026-04-09",
+  "checked_on": "2026-10-27",
+  "source_url": "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F",
+  "announcement_url": "https://www.ccf.org.cn/Academic_Evaluation/By_category/",
+  "scope": "partial_verified_entries",
+  "entries": [
+    {"venue": "ACL", "full_name": "Annual Meeting of the Association for Computational Linguistics", "aliases": [], "venue_type": "conference", "rank": "A", "category": "人工智能", "pdf_page": 57},
+    {"venue": "ICLR", "full_name": "International Conference on Learning Representations", "aliases": [], "venue_type": "conference", "rank": "A", "category": "人工智能", "pdf_page": 57},
+    {"venue": "ICML", "full_name": "International Conference on Machine Learning", "aliases": [], "venue_type": "conference", "rank": "A", "category": "人工智能", "pdf_page": 57},
+    {"venue": "NeurIPS", "full_name": "Conference on Neural Information Processing Systems", "aliases": ["NIPS"], "venue_type": "conference", "rank": "A", "category": "人工智能", "pdf_page": 57},
+    {"venue": "EMNLP", "full_name": "Conference on Empirical Methods in Natural Language Processing", "aliases": [], "venue_type": "conference", "rank": "B", "category": "人工智能", "pdf_page": 58}
+  ],
+  "verified_absences": []
+}
